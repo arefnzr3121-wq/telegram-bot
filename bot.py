@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # توکن و شناسه کانال و گروه
-TOKEN = "8373000722:AAGyGAi57JbUO6OLYEIxzsPHwItEcYGF74U"
+TOKEN = "8373000722:AAHJGwtob7XkEIqtasTj9i9vXgiw7f3k-E0"
 CHANNEL_ID = "@mobsa_mazust"  # یا عدد آی‌دی کانال
 GROUP_ID = -490898272467890  # گروه اعضا
 COURSE_REG_GROUP_ID = -4909919273  # گروه ثبت‌نام دوره‌ها
@@ -600,3 +600,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
